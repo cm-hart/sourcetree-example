@@ -12,3 +12,7 @@ function addThree(num) {
 function addFour(num) {
 	return num + 4;
 }
+
+function addFive(num) {
+	return num + 5;
+}
