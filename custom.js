@@ -1,4 +1,7 @@
-function addTwo(num) {
+function addTwo(num){
+	if (num === Infinity){
+		alert("Cannot add to infinity!");
+	}
 	return num + 2;
 }
 
